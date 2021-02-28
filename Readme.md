@@ -13,3 +13,7 @@ A sintaxe de envio dos arquivos, após o commit ao repositório se dá da seguit
 git push <para onde enviar: repositório remoto> <branch atual>
 
 Há também o método Fork dentro do GitHub que permite a cópia de código que não é autoral para repositório próprio. Diferentemente do método clone, o fork permite o envio das mudanças para o usuário depois.
+
+O comando git branch indica quais branches existem e qual o usuário está.
+
+O comando git branch -D <branch> deleta o branch indicado.
